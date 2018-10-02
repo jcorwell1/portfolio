@@ -1,0 +1,51 @@
+Test Case 0
+cost: 32.04  (expected min 29.49)
+credit: 0.92
+-----------
+Test Case 1
+cost: 37.03  (expected min 38.00)
+credit: 1.03
+-----------
+Test Case 10
+cost: 16.53  (expected min 42.87)
+credit: 1.30
+-----------
+Test Case 11
+cost: 32.04  (expected min 29.49)
+credit: 0.92
+-----------
+Test Case 12
+cost: 44.03  (expected min 38.00)
+credit: 0.86
+-----------
+Test Case 2
+cost: 62.03  (expected min 56.00)
+credit: 0.90
+-----------
+Test Case 3
+cost: 49.03  (expected min 43.00)
+credit: 0.88
+-----------
+Test Case 4
+cost: 35.03  (expected min 30.00)
+credit: 0.86
+-----------
+Test Case 5
+cost: 54.03  (expected min 50.00)
+credit: 0.93
+-----------
+Test Case 6
+cost: 62.03  (expected min 61.50)
+credit: 0.99
+-----------
+Test Case 7
+cost: 34.04  (expected min 29.49)
+credit: 0.87
+-----------
+Test Case 8
+cost: 16.04  (expected min 16.00)
+credit: 1.00
+-----------
+Test Case 9
+cost: 669.36  (expected min 603.43)
+credit: 0.90
