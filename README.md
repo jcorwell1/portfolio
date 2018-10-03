@@ -2,4 +2,4 @@
 
 Some sample projects of James Corwell
 
-Code avaiable upon request
+Code available upon request
