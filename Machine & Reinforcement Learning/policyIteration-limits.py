@@ -8,7 +8,7 @@ from collections import OrderedDict
 '''
 The purpose of this code is to demonstrate that it requires real effort to make policy iteration an inefficient algorithm.
 You can design your own Transitional Matrix and rewards matrix to play with the given code.
-Method generate mdp exists if you desire to parse your final mdp into a JSON file.
+gen_mdp() exists if you desire to parse your final mdp into a JSON text format
 '''
 
 def gen_mdp(T, R, gamma=0.75):
