@@ -1,35 +1,10 @@
 '''This code serves as an example of solving TD(lambda) solutions analytically
 The specific mdp is 'mdp.png'
 
-For this example we assume alpha and gamma = 1 for ease of modeling.
+For this example we assume alpha = 1 and gamma = 1 for ease of modeling.
 '''
 
 
-#example 1
-#V = [0.0, 4.0, 25.7, 0.0, 20.1, 12.2, 0.0]
-#r = [7.9,-5.1,2.5,-7.2,9.0,0.0,1.6]
-#probToState=0.81
-# example 2
-#V = [0.0,-5.2,0.0,25.4,10.6,9.2,12.3]
-#r=[-2.4,0.8,4.0,2.5,8.6,-6.4,6.1]
-#probToState=0.22
-#hw problem giving wrong answe
-#probToState = 0.64
-#V=[0.0,4.9,7.8,-2.3,25.5,-10.2,-6.5]
-#r=[-2.4,9.6,-7.8,0.1,3.4,-2.1,7.9]
-#another one
-#probToState = 0.76
-#V=[0.0,9.3,0.0,12.8,0.0,22.4,3.6]
-#r=[9.0,0.0,0.4,8.9,6.7,0.6,1.9]
-##probToState=0.76
-#V=[0.0,9.3,0.0,12.8,0.0,22.4,3.6]
-#r=[9.0,0.0,0.4,8.9,6.7,0.6,1.9]
-#probToState=0.55
-#V = [0.0,0.0,5.6,9.4,0.0,0.0,-3.6]
-#r=[2.4,4.2,-2.6,5.7,4.1,-2.3,0.9]
-#probToState=0.59
-#V=[0.0,10.7,-0.5,17.7,19.7,0.0,3.6]
-#r=[2.8,-4.1,9.3,0.0,5.2,5.6,-2.8]
 probToState = 0.5
 V = [0, 3, 8, 2, 1, 2, 0]
 r = [0, 0, 0, 4, 1, 1, 1]
