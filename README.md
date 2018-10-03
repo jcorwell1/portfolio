@@ -1,5 +1,5 @@
 # portfolio
 
-Some Sample projects of James Corwell
+Some sample projects of James Corwell
 
-Code Samples are avaiable upon Request
+Code available upon request
