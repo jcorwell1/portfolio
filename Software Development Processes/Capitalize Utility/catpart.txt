@@ -1,0 +1,43 @@
+############   test case specifications ############
+
+# Input File
+
+  Size: 
+  	Empty.			         [property emptyFile]
+ 	Not Empty.
+	
+  #Length:
+  # 	0.				        [error]
+#	>0.				         	[if !emptyFile]
+#	max.					 	[single]
+    	
+  Content:
+    alphanumeric characters.             [if !emptyFile]
+	special characters.			         [if !emptyFile]
+	spaces.						         [if !emptyFile]
+	all.									 [if !emptyFile]
+		
+  Number of Words:     
+ 	Zero.						[error]
+	One.						[if !emptyFile]
+	More than one.				[if !emptyFile]
+
+# Input Flag
+	nothing.
+	-l.
+	-e.
+	-s.
+	-x.
+	-lesx.
+	-les.
+	-xel.
+	-xsl.
+	-le.
+	-lx.
+	-ls.
+	-es.
+	-ex
+	-sx.
+	
+ 
+	
