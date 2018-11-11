@@ -1,8 +1,8 @@
-This is a capitalization utility and many test cases created to test the utility.
+This is the generation of many tests for a theoretical capitalization utility
 
 Test cases were made using the TSLgenerator.
 
-EXAMPLES OF USAGE
+EXAMPLES OF USAGE OF CAPITALIZATION UTILITY
 
 Example 1: 
 capitalize file1.txt
