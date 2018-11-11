@@ -5,4 +5,4 @@ The boxes can be inbetween grid cells anywhere at all in 'continuous space'. NOT
 The attached images are the AI moving about it's current world.
 'results.txt' show the cost of movement compared to the minimum cost of movement for 10 trial runs.
 
-The AI performs about about 90% of minimum cost in each world. This could be imporved by implementing diagnal movements, but that greatly increases risk of collision to obstacles.
+The AI performs about about 90% of minimum cost in each world. This could be imporved by implementing diagonal movements, but that greatly increases risk of collision to obstacles.
